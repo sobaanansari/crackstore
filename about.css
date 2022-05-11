@@ -1,0 +1,49 @@
+body {
+  background-image: url(bg.jpg);
+    font-family:sans-serif;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  .about-section {
+    padding: 50px;
+    text-align: justify;
+    color: white;
+    font-family: serif;
+    
+  }
+  
+  .about-section p {
+  font-size: 25px;
+  }
+  .container {
+    padding: 0 16px;
+  }
+  .footer img{
+    height: 10px;
+    width: 200px;
+  }
+ 
+.footer{
+  height: auto;
+  background-color: white;
+  display: grid;
+  grid-template-columns:200px 200px 200px 200px ;
+  gap: 50px;
+  padding-bottom: 2px;
+
+}
+#logo a img{
+  margin-left:150%;
+  width: 150;
+  height: 200px;
+  grid-column: span;
+}
+
+h3{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
