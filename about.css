@@ -37,8 +37,8 @@ body {
 }
 #logo a img{
   border: 2px solid white;
+  border-radius: 50%;
   margin-left:150%;
-  width: 150;
   height: 200px;
   grid-column: span;
 }
