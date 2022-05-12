@@ -28,7 +28,7 @@ body {
  
 .footer{
   height: auto;
-  background-color: white;
+  background-color: none;
   display: grid;
   grid-template-columns:200px 200px 200px 200px ;
   gap: 50px;
