@@ -9,9 +9,12 @@ body {
   }
   
   .about-section {
+    margin: 10px;
+    border-radius: 30px;
+    background-color: rgba(250, 250,250, 0.5);
     padding: 25px;
     text-align: justify;
-    color: white;
+    color: black;
     font-family: serif;
     
   }
